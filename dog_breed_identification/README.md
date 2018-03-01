@@ -2,8 +2,6 @@ This repo has the code for running the [dog breed identification](https://www.ka
 
 The idea is to extract features from pretrained ConvNets including inception and resnet to speed up. Please run the python notebook in sequence to know more.
 
-In case you cannot load the python notebook, I uploaded pdf versions of the notebook.
-
 To run the code, please have the following prerequisites:
 - mxnet 1.0.0
 - panads 0.21.0
