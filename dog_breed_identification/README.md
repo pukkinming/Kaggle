@@ -10,4 +10,4 @@ To run the code, please have the following prerequisites:
 - numpy 1.13.3
 - tqdm 4.11.2
 
-My code is based on [LeeJuly30](https://github.com/LeeJuly30/ImageNet) and [SinyerAtlantis](https://github.com/SinyerAtlantis/deep_learning_gluon/). Special thanks to their sharing.
+My code is based on [LeeJuly30](https://github.com/LeeJuly30/ImageNet) and [SinyerAtlantis](https://github.com/SinyerAtlantis/deep_learning_gluon/tree/master/3.%20transfer_learning/3.%20kaggle_120dogs). Special thanks to their sharing.
